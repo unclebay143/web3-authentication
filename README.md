@@ -2,7 +2,7 @@
 
 Watch Demo [here](https://youtu.be/Glvg3uX7reE)
 
-Read Article [here](https://web3.hashnode.com/how-to-build-a-web3-login-with-web3js-library)
+Learn how to buil Web3.js Authentication [here](https://web3.hashnode.com/how-to-build-a-web3-login-with-web3js-library)
 
 # Tech
 
